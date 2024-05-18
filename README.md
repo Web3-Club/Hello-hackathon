@@ -18,6 +18,8 @@
 
 线下有：Ethereum Beijing 2023、Ethereum Singapore 2023、Ethereum Hangzhou 2023、Polkadot Winter- Hong kong、Circle Hackathon
 
+于是不少身边没有参与过黑客松又对黑客松很感兴趣的朋友经常问我：**如何去开启第一场黑客松？** & **我不会开发/不是hacker，值得去参加一次吗？**
+
 
 
 ## 前言
