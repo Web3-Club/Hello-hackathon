@@ -1,11 +1,13 @@
-<h1 align="center">
-Hello-hackathon
-</h1>
+
 
 ![Hello hackathon](https://github.com/Web3-Club/Hello-hackathon/assets/76860915/56c9e012-cf5a-45d6-9112-eb615bcd086e)
 
 
+
+<h1 align="center">
 你的第一本黑客松入门手册 助你参与人生第一场黑客松
+
+</h1>
 
 还在施工中
 
