@@ -8,7 +8,7 @@
 
 我在2023年初开始的一年间，在Covid-19解封之后，大学一年级开始就作为产品和测试，参加了十几场黑客松。
 
-线下有：Ethereum Beijing 2023、Ethereum Singapore 2023、Ethereum hangzhou 2023、
+线下有：Ethereum Beijing 2023、Ethereum Singapore 2023、Ethereum Hangzhou 2023、Polkadot Winter- Hong kong、Circle Hackathon
 
 ## 前言
 
