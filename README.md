@@ -10,6 +10,8 @@
 
 线下有：Ethereum Beijing 2023、Ethereum Singapore 2023、Ethereum Hangzhou 2023、Polkadot Winter- Hong kong、Circle Hackathon
 
+
+
 ## 前言
 
 我认为每一位刚开始了解Web3/学习一门语言（包括但不限于Solidity，Move......）的朋友，都应该去尝试去体验黑客松的整个赛程。
@@ -29,7 +31,8 @@
 ### 提交
 
 
-
+## 致谢
+在此我要感谢近一年一路上所有支持我的家人和朋友，以及黑客松主办方。没有你们就没有现在的我以及这篇文章。
 
 <br>
 
