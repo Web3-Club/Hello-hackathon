@@ -32,8 +32,10 @@
 
 ## 更多资料
 
-[浙大链协-为什么人人都应该参与一场黑客松](https://x.com/zjubca/status/1705159500884590701)
+### Twitter Space
+[浙大链协ZJUBCA-为什么人人都应该参与一场黑客松](https://x.com/zjubca/status/1705159500884590701)
 
+### GitHub Repo
 [33357-黑客松对于开发者来说有什么用](https://github.com/33357/smartcontract-apps/blob/main/Meeting/Hackathon.md)
 
 
