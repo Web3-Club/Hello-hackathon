@@ -1,4 +1,7 @@
-# Hello-hackathon
+<h1 align="center">
+Hello-hackathon
+</h1>
+
 你的第一本黑客松入门手册 助你参与人生第一场黑客松
 
 还在施工中
