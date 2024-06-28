@@ -16,12 +16,14 @@
 
 我在2023年初开始的一年间，在Covid-19解封之后，大学一年级开始作为产品和测试，参加了十几场黑客松。
 
-线下有：Ethereum Beijing，Singapore，Hangzhou 、Polkadot Winter Hong kong、Circle Hackathon
+（如 Ethereum Beijing，Singapore，Hangzhou 、Polkadot Winter Hong kong、Circle Hackathon）
 
-于是不少身边没有参与过黑客松又对黑客松很感兴趣的朋友经常问我：
+
+于是我身边不少听过我的经历，但没有参与过黑客松又对黑客松很感兴趣的朋友 经常问我：
 
 **如何去开启第一场黑客松？** & **我不会开发/不是hacker，值得去参加一次吗？**
 
+---
 
 不少朋友也是因为各种原因而无法参加相关领域的黑客松————害怕自己做不出什么东西、感觉自己能力有限、找不到最近的黑客松活动信息......
 
@@ -56,9 +58,6 @@
 
 ## 黑客松分类
 黑客松的类型各有不同，既有大厂（Microsoft），公链（ [以太坊](https://ethereum.org/zh/community/events/)、[Solana](https://solana.com/events)、[Sui](https://sui.io/community-events-hub) ，也有预言机、跨链桥（Chainlink、Circle CCTP）等各类产品，当然也有社区和组织开展的开放性主题黑客松（如[AdventureX](https://adventure-x.org/) ）
-
-
-
 
 
 
