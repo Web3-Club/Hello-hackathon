@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">
+<h3 align="center">
 你的第一本黑客松入门手册 助你参与人生第一场黑客松
 
 </h1>
