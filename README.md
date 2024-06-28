@@ -36,6 +36,14 @@
 
 我[自己](http://github.com/yanboishere)深有体会。
 
+## 黑客松分类
+黑客松的类型各有不同，既有大厂（Microsoft），公链（以太坊、Solana、Sui），也有预言机、跨链桥（Chainlink、Circle CCTP）等各类产品，当然也有社区和组织开展的开放性主题黑客松（如AdventureX）
+
+
+
+
+
+
 ## 过程
 
 ### 前期报名 
