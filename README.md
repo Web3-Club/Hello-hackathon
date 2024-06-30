@@ -99,6 +99,7 @@
 [浙大链协ZJUBCA-为什么人人都应该参与一场黑客松](https://x.com/zjubca/status/1705159500884590701)
 
 #### Twitter Space发言嘉宾总结
+##### 小红书
 [黑客松分享(一)-Jupiter](http://xhslink.com/N7pgGJ)
 
 [黑客松分享(二)-Jupiter](http://xhslink.com/UfLgGJ)
