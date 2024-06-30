@@ -107,3 +107,7 @@
 ### GitHub Repo
 [33357-黑客松对于开发者来说有什么用](https://github.com/33357/smartcontract-apps/blob/main/Meeting/Hackathon.md)
 
+
+©️ Web3Club 2024
+
+
