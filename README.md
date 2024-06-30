@@ -147,9 +147,7 @@
 
 决赛的pitch环节是很重要的环节
 
-# 黑客松活动网站
-- [DevPost](https://devpost.com/)
-- [dorahacks](https://dorahacks.io/zh)
+
 
 
 
@@ -159,6 +157,12 @@
 没有你们就没有现在的我以及这个教程。
 
 <br>
+
+
+# 附录
+## 黑客松活动网站
+- [DevPost](https://devpost.com/)
+- [dorahacks](https://dorahacks.io/zh)
 
 ## 黑客松日历
 （还在建设中）
