@@ -217,8 +217,13 @@ A：理论上是这样的 包括很多黑客松的规定是只能在黑客松期
 [Social Layer](https://app.sola.day/event/hackathons)
 
 
-## 深圳周周黑客松
-微信号：hackathonweekly
+## 周周黑客松
+
+### 官网
+[hackathonweekly](https://hackathonweekly.com/)
+
+### 微信号
+hackathonweekly
 
 <br>
 <br>
