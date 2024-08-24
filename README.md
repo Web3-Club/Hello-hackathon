@@ -210,14 +210,21 @@ A：理论上是这样的 包括很多黑客松的规定是只能在黑客松期
 - [DevPost](https://devpost.com/)
 - [dorahacks](https://dorahacks.io/zh)
 
+
 ## 黑客松日历
 （还在建设中）
 
 [Social Layer](https://app.sola.day/event/hackathons)
 
+
+## 深圳周周黑客松
+微信号：hackathonweekly
+
 <br>
 <br>
 <br>
+
+
 
 ## 更多资料
 
