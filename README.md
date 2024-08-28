@@ -227,7 +227,7 @@ A：理论上是这样的 包括很多黑客松的规定是只能在黑客松期
 [hackathonweekly](https://hackathonweekly.com/)
 
 ### 微信号
-hackathonweekly
+`hackathonweekly`
 
 <br>
 <br>
