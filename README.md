@@ -255,11 +255,10 @@ HackathonWeekly周周黑客松是一个公益开源的极客社区，定期举�
 [33357-黑客松对于开发者来说有什么用](https://github.com/33357/smartcontract-apps/blob/main/Meeting/Hackathon.md)
 
 
-### 我们的联系方式
 
 
 
 
-©️ Web3Club 2024
+©️ Web3Club 2024-2026
 
 
